@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dev
+- 👋 Hi, I’m Dev, aspiring to be a Data Analyst.
 
 <!---
 1401Dev/1401Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
